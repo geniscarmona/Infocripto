@@ -1,0 +1,25 @@
+- Genis:
+- Joanet: 
+- Pau:
+- Josep
+
+
+
+Genis y Joanet: Servidor y base de datos (cryptomonedas - Api)
+
+Joanet: Logo y modificar texto de la web
+
+Josep: Modificación menú izquierda [borrar sobrantes (Dashboard/Charts/Tables)
+       y modificar (Components/Example Pages/Menu Levels)]
+
+Pau:  Investigar notificaciones
+
+Genis y joanet: Registro y formulario
+
+Josep: Añadir idiomas y quitar el de correo
+
+Josep: Borrar "Search for..."
+
+***    Modificar "Indice" --> Borrar "Orders" / 
+
+
